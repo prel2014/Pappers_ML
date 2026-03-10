@@ -233,6 +233,33 @@
 
 ---
 
+## Aportes de Meta AI / FAIR en Visión (2018–2026)
+
+> Tracker completo en [`../meta_vision_papers.md`](../meta_vision_papers.md) — 44 papers, 9 ya en repo.
+
+### Líneas de investigación de Meta
+
+| Línea | Evolución |
+|-------|-----------|
+| **SSL Visual** | DINO → MAE → DINOv2 → DINOv3 → Perception Encoder |
+| **World Models / JEPA** | LeCun → I-JEPA → V-JEPA → V-JEPA 2 → VL-JEPA ✅ |
+| **Segmentación** | MaskFormer → Mask2Former → SAM → SAM 2 → SAM 3 |
+| **Video** | SlowFast → TimeSformer → Make-A-Video → Movie Gen |
+| **VLMs** | FLAVA → ImageBind → Chameleon → Llama 4 |
+| **Backbones** | Non-Local → DETR → ConvNeXt → ViT-Det → Sapiens |
+
+### Papers Meta pendientes de descargar (35 papers)
+
+| Carpeta destino | Papers |
+|----------------|--------|
+| `multimodal/` | DINO, MAE, data2vec, DINOv2, DINOv3, Perception Encoder, FLAVA, ImageBind, MetaCLIP, CM3Leon, Chameleon, Llama 3.2-V, Llama 4, MetaCLIP 2, SAM, SAM 2, SAM 3 |
+| `arquitecturas/` | Non-Local Nets, SlowFast, DETR, MViT, TimeSformer, MaskFormer, ConvNeXt, Mask2Former, ViT-Det, Omnivore, ConvNeXt V2, ViT-Reg, Sapiens |
+| `difusion/video/` | Make-A-Video, Emu Video, Movie Gen |
+| `difusion/finetuning/` | Emu, Emu Edit |
+| `entrenamiento/` | VICReg, data2vec 2.0 |
+
+---
+
 ## Mapa de conceptos transversales
 
 | Concepto | LLMs | Difusión | JEPA |

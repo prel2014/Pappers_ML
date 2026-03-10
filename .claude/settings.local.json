@@ -1,3 +1,9 @@
 {
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(cd \"/c/Users/prodriguezl1/Downloads/papers\" && node gen_meta_vision.js)"
+    ]
+  },
   "outputStyle": "Learning"
 }
