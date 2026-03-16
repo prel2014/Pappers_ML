@@ -41,6 +41,17 @@ La skill usa `pptxgenjs` (instalado en `node_modules/`). No requiere setup adici
 | Difusión arquitecturas | `difusion/arquitecturas/` | U-Net, DiT, SDXL, SD3/MM-DiT |
 | Difusión video | `difusion/video/` | Video Diffusion, SVD, CogVideoX |
 | Difusión 3D | `difusion/multimodal/` | DreamFusion, Zero123, MVDiffusion |
+| Proteínas fundamentos | `proteinas/fundamentos/` | AlphaFold2, RoseTTAFold |
+| Proteínas implementaciones | `proteinas/implementaciones/` | ColabFold, OpenFold, HelixFold, UniFold, FastFold |
+| Proteínas language models | `proteinas/language_models/` | ESMFold, OmegaFold |
+| Proteínas variantes | `proteinas/variantes/` | AlphaFold3, RoseTTAFold All-Atom, AF2-RAVE |
+| Materiales fundamentos | `materiales/fundamentos/` | CVD, PVD, ALD, MBE, sol-gel, hidrotermal |
+| Materiales deposición | `materiales/tecnicas_deposicion/` | Thin films, sputtering, epitaxia |
+| Nanomateriales | `materiales/nanomateriales/` | CNTs, grafeno, quantum dots, 2D materials |
+| Biomateriales | `materiales/biomateriales/` | Scaffolds, hidrogeles, biocerámicas |
+| Composites | `materiales/composites/` | Polímero-matriz, metal-matriz, nanocomposites |
+| IA para materiales | `materiales/ai_materiales/` | MatterGen, GNoME, diseño inverso |
+| Caracterización | `materiales/caracterizacion/` | XRD, SEM, TEM, AFM, XPS, Raman |
 
 ## Base de conocimiento destilada (`destilacion/`)
 
